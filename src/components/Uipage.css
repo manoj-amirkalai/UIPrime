@@ -13,7 +13,7 @@ img {
 nav h1,
 p {
   cursor: pointer;
-}
+}.nav h1{color:rgb(48, 138, 184)}
 .nav1 {
   display: flex;
   justify-content: space-evenly;
